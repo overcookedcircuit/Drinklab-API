@@ -8,6 +8,8 @@ export interface Drinks {
 export const drinks: Drinks[] = [
   /**Info for where some of the information was found
     https://blenditlb.com/blogs/blendit-blender-journal/25-healthy-smoothie-recipes?srsltid=AYCX9vLPy_SXmMoUfs-SfUyojRXucGtHUtH6RpDAXuMZSRe4y_o6Dwiq
+    https://bakingmischief.com/milkshake-recipes/?utm_source=Pinterest&utm_medium=organic
+    https://chefsbliss.com/blender-milkshake-recipes/?utm_source=Pinterest&utm_medium=organic
    
   */
     //This section is for smoothies :)
@@ -206,4 +208,114 @@ export const drinks: Drinks[] = [
     category: "juice",
     ingredients: ["2 cups watermelon", "2 cups strawberries", "1 lemon (juiced)"]
   },
+
+
+  //This section is for milkshakes :)
+  {
+    id: 3001,
+    name: "Vanilla Milkshake",
+    category: "milkshake",
+    ingredients: ["1½ cups vanilla ice cream", "½ cup milk"]
+  },
+  {
+    id: 3002,
+    name: "Banana Milkshake",
+    category: "milkshake",
+    ingredients: ["1½ cups vanilla ice cream", "½ cup milk", "1 banana"]
+  },
+  {
+    id: 3003,
+    name: "Peanut Butter Banana Milkshake",
+    category: "milkshake",
+    ingredients: ["1½ cups vanilla ice cream", "½ cup milk", "1 banana", "1 tbsp peanut butter"]
+  },
+  {
+    id: 3004,
+    name: "Strawberry Milkshake",
+    category: "milkshake",
+    ingredients: ["1½ cups vanilla ice cream", "½ cup milk", "¾ cup strawberries"]
+  },
+  {
+    id: 3005,
+    name: "Strawberry Banana Milkshake",
+    category: "milkshake",
+    ingredients: ["1½ cups vanilla ice cream", "½ cup milk", "¾ cup strawberries", "1 banana"]
+  },
+  {
+    id: 3006,
+    name: "Oreo Milkshake",
+    category: "milkshake",
+    ingredients: ["1½ cups vanilla ice cream", "½ cup milk", "4 Oreo cookies"]
+  },
+  {
+    id: 3007,
+    name: "Creamy Peach Milkshake",
+    category: "milkshake",
+    ingredients: ["2 cups vanilla ice cream", "2 peaches", "½ cup milk"]
+  },
+  {
+    id: 3008,
+    name: "Tropical Sunrise Smoothie Shake",
+    category: "milkshake",
+    ingredients: ["1 banana", "1 cup mango", "1 cup pineapple", "1 cup milk", "½ cup greek yogurt", "1 tbsp honey"]
+  },
+  {
+    id: 3009,
+    name: "Cinnamon Maple Apple Pie Shake",
+    category: "milkshake",
+    ingredients: ["2 scoops vanilla ice cream", "1 cup milk", "1 apple", "½ tsp cinnamon", "2 tbsp maple syrup"]
+  },
+  {
+    id: 3010,
+    name: "Matcha Green Tea Delight Shake",
+    category: "milkshake",
+    ingredients: ["1 tsp matcha green tea powder", "1 cup milk", "2 scoops vanilla ice cream", "1 tsp honey"]
+  },
+  {
+    id: 3011,
+    name: "Caramelized Banana Crunch Shake",
+    category: "milkshake",
+    ingredients: ["2 bananaa", "2 tbsp unsalted butter", "2 tbsp brown sugar", "1 cup milk", "2 scoops vanilla ice cream", "1 tsp vanilla extract"]
+  },
+  {
+    id: 3012,
+    name: "Pistachio Rose Dream Shake",
+    category: "milkshake",
+    ingredients: ["2 scoops vanilla ice cream", "1 cup milk", "1 tsp rose water", "½ cup shelled pistachios (unsalted)", "1 tsp honey"]
+  },
+  {
+    id: 3013,
+    name: "Salted Caramel Pretzel Shake",
+    category: "milkshake",
+    ingredients: ["2 scoops vanilla ice cream", "1 cup milk", "1 tbsp caramel syrup", "¼ cup crushed pretzels", "1 tsp sea salt"]
+  },
+  {
+    id: 3014,
+    name: "Sweet and Spicy Mango Tango Shake",
+    category: "milkshake",
+    ingredients: ["1 mango", "1 cup milk", "2 scoops vanilla ice cream", "½ teaspoon chili powder", "1 tbsp lime juice", "1 tbsp honey"]
+  },
+  {
+    id: 3015,
+    name: "Cookies and Cream Dream Shake",
+    category: "milkshake",
+    ingredients: ["2 cups vanilla ice cream", "1 cup milk", "8 orea cookies", "1 tsp vanilla extract"]
+  },
+  {
+    id: 3016,
+    name: "Choco-Banana Protein Shake",
+    category: "milkshake",
+    ingredients: ["1 banana", "1 cup milk", "1 scoop chocolate protein powder", "1 cup unsweetened almond milk", "2 tbsp peanut butter", "1 tsp cocoa powder", "1 tsp honey"]
+  },
+
+
+  //This section is for tea :)
+
+
+  //This section is for coffee :)
+
+
+  //This section is for lemonades :)
+
+
 ];
