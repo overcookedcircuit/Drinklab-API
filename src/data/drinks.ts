@@ -11,6 +11,7 @@ export const drinks: Drinks[] = [
     https://bakingmischief.com/milkshake-recipes/?utm_source=Pinterest&utm_medium=organic
     https://chefsbliss.com/blender-milkshake-recipes/?utm_source=Pinterest&utm_medium=organic
     https://www.tasteofhome.com/collection/tea-recipes-you-havent-made-yet/
+    https://www.allrecipes.com/gallery/coffee-shop-recipes/
    
   */
     //This section is for smoothies :)
@@ -344,7 +345,36 @@ export const drinks: Drinks[] = [
 
 
   //This section is for coffee :)
-
+  {
+    id: 5001,
+    name: "Café Latte",
+    category: "coffee",
+    ingredients: ["2 cups milk", "1 ⅓ cups hot freshly brewed dark roast espresso coffee"]
+  },
+  {
+    id: 5002,
+    name: "Iced Mocha",
+    category: "coffee",
+    ingredients: ["1 ½ cups cold coffee", "2 cups milk", "¼ cup chocolate syrup", "¼ cup white sugar"]
+  },
+  {
+    id: 5003,
+    name: "Affogato",
+    category: "coffee",
+    ingredients: ["5 ½ ounces vanilla gelato", "2 ounces fresh brewed espresso"]
+  },
+  {
+    id: 5004,
+    name: "Cold-Brewed Coffee",
+    category: "coffee",
+    ingredients: ["½ pound coarsely ground coffee beans", "4 ½ cups cold water"]
+  },
+  {
+    id: 5005,
+    name: "Frozen Caramel Latte",
+    category: "coffee",
+    ingredients: ["3 fluid ounces brewed espresso", "1 tablespoon caramel sauce", "2 tablespoons white sugar", "¾ cup milk", "1 ½ cups ice cubes", "2 tablespoons whipped cream"]
+  },
 
   //This section is for lemonades :)
 
