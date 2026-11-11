@@ -377,6 +377,36 @@ export const drinks: Drinks[] = [
   },
 
   //This section is for lemonades :)
+  {
+    id: 6001,
+    name: "Blueberry Lemonade",
+    category: "lemonade",
+    ingredients: ["3 cups fresh blueberries", "¼ cup stevia", "½ cup freshly squeezed lemon juice", "9 cups water"]
+  },
+  {
+    id: 6002,
+    name: "Frozen Strawberry Lemonade",
+    category: "lemonade",
+    ingredients: ["2 cups ice cube", "1 cup water", "1 (6 ounce) can frozen lemonade concentrate", "5 large fresh ripe strawberries"]
+  },
+  {
+    id: 6003,
+    name: "Electric Lemonade",
+    category: "lemonade",
+    ingredients: ["2 fluid ounces sour mix", "1 (1.5 fluid ounce) jigger citron vodka", "½ fluid ounce Blue Curacao", "12 fluid ounce bottle lemon-lime flavored carbonated beverage"]
+  },
+  {
+    id: 6004,
+    name: "Watermelon Lemonade",
+    category: "lemonade",
+    ingredients: ["4 cups cubed watermelon", "½ cup white sugar", "½ cup water", "3 cups cold water", "½ cup fresh lemon juice", "6 cups ice cubes"]
+  },
+  {
+    id: 6005,
+    name: "Ginger Lemonade",
+    category: "lemonade",
+    ingredients: ["3 cups white sugar", "4 quarts water", "14 slices fresh ginger root", "4 cups fresh lemon juice"]
+  },
 
 
 ];
