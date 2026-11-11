@@ -10,6 +10,7 @@ export const drinks: Drinks[] = [
     https://blenditlb.com/blogs/blendit-blender-journal/25-healthy-smoothie-recipes?srsltid=AYCX9vLPy_SXmMoUfs-SfUyojRXucGtHUtH6RpDAXuMZSRe4y_o6Dwiq
     https://bakingmischief.com/milkshake-recipes/?utm_source=Pinterest&utm_medium=organic
     https://chefsbliss.com/blender-milkshake-recipes/?utm_source=Pinterest&utm_medium=organic
+    https://www.tasteofhome.com/collection/tea-recipes-you-havent-made-yet/
    
   */
     //This section is for smoothies :)
@@ -310,6 +311,36 @@ export const drinks: Drinks[] = [
 
 
   //This section is for tea :)
+  {
+    id: 4001,
+    name: "Iced Honeydew Mint Tea",
+    category: "tea",
+    ingredients: ["4 cups water", "24 fresh mint leaves", "8 green tea bags", "2/3 cup sugar", "5 cups diced honeydew melon", "3 cups ice cubes"]
+  },
+  {
+    id: 4002,
+    name: "Bella Basil Raspberry Tea",
+    category: "tea",
+    ingredients: ["3 cups fresh raspberries", "1 cup sugar", "1 cup packed fresh basil leaves", "1/4 cup lime juice", "2 black tea bags", "1 bottle carbonated water"]
+  },
+  {
+    id: 4003,
+    name: "Refreshing Raspberry Iced Tea",
+    category: "tea",
+    ingredients: ["6 cups water", "1-3/4 cups sugar", "8 tea bags", "3/4 cup frozen apple-raspberry juice concentrate", "8 cups cold water", "Fresh raspberries"]
+  },
+  {
+    id: 4004,
+    name: "Smooth Sweet Tea",
+    category: "tea",
+    ingredients: ["2 cups water", "6 black tea bags", "1/8 teaspoon baking soda", "2/3 cup sugar", "6 cups cold water"]
+  },
+  {
+    id: 4005,
+    name: "Lemon Basil Tea",
+    category: "tea",
+    ingredients: ["3 quarts water", "1 cup thinly sliced fresh basil leaves", "1/4 cup grated lemon zest", "1/4 cup black tea leaves"]
+  },
 
 
   //This section is for coffee :)
