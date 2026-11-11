@@ -12,6 +12,7 @@ export const drinks: Drinks[] = [
     https://chefsbliss.com/blender-milkshake-recipes/?utm_source=Pinterest&utm_medium=organic
     https://www.tasteofhome.com/collection/tea-recipes-you-havent-made-yet/
     https://www.allrecipes.com/gallery/coffee-shop-recipes/
+    https://www.allrecipes.com/gallery/lemonade-recipes/
    
   */
     //This section is for smoothies :)

@@ -14,7 +14,16 @@ app.get("/", (req, res) => {
 
 // Route for fetching all the drinks
 app.get("/drinks", (req, res) => {
-  res.status(200).json(drinks);
+  const category = req.query.category;
+  if (typeof category === "string") {
+    const filteredDrinks = drinks.filter((drink) => {
+      return drink.category === category.toLowerCase();
+    });
+
+    return res.status(200).json(filteredDrinks);
+  }
+
+  return res.status(200).json(drinks);
 });
 
 // Start server
